@@ -30,7 +30,7 @@ namespace WindowsFormsApp1
                         }
                         else
                         {
-
+                            MessageBox.Show("First Name/ Last Name/ City Field entry is wrong");
                             return 0;
                         }
                     }
